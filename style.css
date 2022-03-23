@@ -16,7 +16,6 @@ header {
   top: 0;
   padding: 0 40px;
   background-color: #f3f3f3;
-  width: 100%;
 }
 .navmenu {
   display: flex;
@@ -92,7 +91,7 @@ footer {
 .footer-message span {
   color: #1f9fee;
 }
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
   header {
     height: 120px;
   }
@@ -109,4 +108,4 @@ footer {
     display: flex;
     flex-direction: column;
   }
-}
+} */
